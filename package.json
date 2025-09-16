@@ -1,0 +1,28 @@
+{
+  "name": "project-management-platform",
+  "version": "1.0.0",
+  "description": "a project management application ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saheb1997/Project-management-Platform.git"
+  },
+  "keywords": [
+    "Back",
+    "end",
+    "api"
+  ],
+  "author": "saheb sarkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saheb1997/Project-management-Platform/issues"
+  },
+  "homepage": "https://github.com/saheb1997/Project-management-Platform#readme",
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
+}
